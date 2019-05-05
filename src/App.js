@@ -30,6 +30,7 @@ class App extends Component {
 
     return (
       <form onSubmit={this.loginUser}>
+        <h2>Updated by CircleCi CI/CD</h2>
         <h1>An Awesome Form on React</h1>
         <label htmlFor="email">
           <span>Email:</span>
