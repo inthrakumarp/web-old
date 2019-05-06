@@ -21,6 +21,9 @@ ShallowWrapper {
       "children": <form
         onSubmit={[Function]}
       >
+        <h2>
+          Updated by CircleCi CI/CD
+        </h2>
         <h1>
           An Awesome Form on React
         </h1>
@@ -69,6 +72,9 @@ ShallowWrapper {
       "nodeType": "host",
       "props": Object {
         "children": Array [
+          <h2>
+            Updated by CircleCi CI/CD
+          </h2>,
           <h1>
             An Awesome Form on React
           </h1>,
@@ -112,6 +118,17 @@ ShallowWrapper {
       },
       "ref": null,
       "rendered": Array [
+        Object {
+          "instance": null,
+          "key": undefined,
+          "nodeType": "host",
+          "props": Object {
+            "children": "Updated by CircleCi CI/CD",
+          },
+          "ref": null,
+          "rendered": "Updated by CircleCi CI/CD",
+          "type": "h2",
+        },
         Object {
           "instance": null,
           "key": undefined,
@@ -267,6 +284,9 @@ ShallowWrapper {
         "children": <form
           onSubmit={[Function]}
         >
+          <h2>
+            Updated by CircleCi CI/CD
+          </h2>
           <h1>
             An Awesome Form on React
           </h1>
@@ -315,6 +335,9 @@ ShallowWrapper {
         "nodeType": "host",
         "props": Object {
           "children": Array [
+            <h2>
+              Updated by CircleCi CI/CD
+            </h2>,
             <h1>
               An Awesome Form on React
             </h1>,
@@ -358,6 +381,17 @@ ShallowWrapper {
         },
         "ref": null,
         "rendered": Array [
+          Object {
+            "instance": null,
+            "key": undefined,
+            "nodeType": "host",
+            "props": Object {
+              "children": "Updated by CircleCi CI/CD",
+            },
+            "ref": null,
+            "rendered": "Updated by CircleCi CI/CD",
+            "type": "h2",
+          },
           Object {
             "instance": null,
             "key": undefined,
